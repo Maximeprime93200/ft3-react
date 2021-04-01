@@ -1,0 +1,217 @@
+.Step1{
+    width: 100%;
+    height: 100%;
+}
+
+.Arrow{
+    width: 10%;
+    margin: 5%;
+}
+
+.Timeline{
+    width: 100%;
+}
+
+.Background{
+    height: 58vh;
+    background-color: #F8F8F8;
+    border-radius: 40px 40px 0px 0px;
+}
+
+.txt1{
+    width: 100%;
+    margin-top: 5%;
+    padding-top: 5%;
+    text-align: center;
+    font-size: 4vw;
+    color: #512472;
+}
+
+.button{
+    margin-left: 30%;
+    margin-top: 10%;
+    width: 40%;
+    height: 38px;
+    width: 145px;
+    border-radius: 15px;
+    background-color: #512472;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.button2{
+    color: white;
+    font-size: 14px;
+    margin-top: 7%;
+    width: 70%;
+    height: 50%;
+}
+
+.Emetteur{
+    display: flex;
+    flex-direction: row;
+    width: 80%;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    padding-left: 4%;
+    padding-right: 4%;
+    font-size: 4vw;
+    color: white;
+    background-color: #512472;
+    border-radius: 15px;
+}
+
+.Block3{
+    background-color: #512472;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.txt5{
+    background-color: #512472;
+    width: 100%;
+    font-size: 3vw;
+}
+
+
+.money{
+    width: 20%;
+    height: 10%;
+    margin-top: 7%;
+    margin-right: 5%;
+    text-align: center;
+}
+
+.img1{
+    width: 100%;
+    margin-top: 5%;
+}
+
+.ChatBot{
+    width: 100%;
+    background-color: #F8F8F8;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.Louky{
+    width: 25%;
+}
+
+.Menu{
+    width: 100%;
+    height: 7vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.Compte, .Virements, .Carte, .RIB, .Bilan{
+    width: 20%;
+    height: 10vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center center;
+    align-items: center;
+    padding: 3%;
+
+}
+
+.Block{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    vertical-align: middle;
+}
+
+.img2, .img3, .img4, .img5, .img6{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+p{
+    text-align: center;
+    font-size: 2.5vw;
+    margin: 0%;
+}
+
+.img2{
+    width: 31px;
+    height: 22px;
+    background-image: url(../../img/compte.svg);
+}
+
+.img3{
+    width: 25px;
+    height: 25px;
+    background-image: url(../../img/virements.svg);
+}
+
+.img4{
+    margin-top: -10px;
+    width: 36px;
+    height: 36px;
+    background-image: url(../../img/carte.svg);
+}
+
+.img5{
+    margin-bottom: 1px;
+    width: 32px;
+    height: 22px;
+    background-image: url(../../img/rib.svg);
+}
+
+.img6{
+    width: 29px;
+    height: 29px;
+    background-image: url(../../img/bilan.svg);
+}
+
+.t1{
+    margin-top: 14px;
+}
+
+.t2{
+    margin-top: 14px;
+}
+
+.t3{
+    padding-top: 11px;
+}
+
+.t4{
+    padding-top: 18px;
+}
+
+.t5{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.Bilan{
+    margin-top: 7px;
+}
+
+.Carte{
+    margin-top: 2px;
+}
+
+.RIB{
+    margin-top: 1px;
+}
+
+.link{
+    width: 50%;
+    text-decoration: none;
+}
+
+.link{
+    text-decoration: none;
+}
